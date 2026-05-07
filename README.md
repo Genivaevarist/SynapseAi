@@ -1,0 +1,2 @@
+# SynapseAi
+unified API
